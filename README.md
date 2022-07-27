@@ -47,4 +47,3 @@ To run this:
     python fast_subdomain_scanner.py hackthissite.org -l subdomains.txt -t 10 -o discovered_urls.txt
     ```
     This will create a new file `discovered_urls.txt` that includes the discovered subdomains.
-- For bigger subdomain wordlists, check [this repository](https://github.com/rbsec/dnscan).
